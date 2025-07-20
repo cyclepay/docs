@@ -4,8 +4,8 @@
   "name": "Cycle Docs",
   "colors": {
     "primary": "#9013FE",
-    "light": "#A7B8FF",
-    "dark": "#1B2F99"
+    "light": "#9013FE",
+    "dark": "#9013FE"
   },
   "favicon": "/favicon.svg",
   "navigation": {
